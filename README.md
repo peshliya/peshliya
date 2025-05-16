@@ -1,4 +1,4 @@
-<!-- Animated waving hand SVG -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/peshliya/peshliya/main/assets/wave.svg" width="100" alt="Waving hand" />
 </p>
