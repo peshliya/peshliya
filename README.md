@@ -10,7 +10,13 @@
 </p>
 
 ---
+## 😜 Current Status
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-%F0%9F%98%9C%20Feeling%20Awesome-ff69b4?style=flat-square" />
+</p>
+
+---
 ## 🚀 About Me
 
 **Full Name:** Vidurangi Peshala  
