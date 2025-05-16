@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/peshliya/peshliya/main/assets/wave.svg" width="100" alt="Waving hand" />
 </p>
@@ -8,14 +7,6 @@
 <p align="center">
   <b>Welcome to my professional GitHub profile!</b>
 </p>
-
----
-## 😜 Current Status
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-%F0%9F%98%9C%20Feeling%20Awesome-ff69b4?style=flat-square" />
-</p>
-
 ---
 ## 🚀 About Me
 
