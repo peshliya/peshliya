@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/peshliya/peshliya/main/assets/wave.svg" width="100" alt="Waving hand" />
-</p>
-
 <h1 align="center">Hi there, I'm Peshala! 👋</h1>
 
 <p align="center">
