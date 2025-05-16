@@ -1,9 +1,12 @@
+
 <h1 align="center">Hi there, I'm Peshala! 👋</h1>
 
 <p align="center">
   <b>Welcome to my professional GitHub profile!</b>
 </p>
+
 ---
+
 ## 🚀 About Me
 
 **Full Name:** Vidurangi Peshala  
@@ -70,4 +73,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
