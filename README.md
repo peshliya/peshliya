@@ -55,12 +55,12 @@
 </p>
 
 ---
-
 ## 📩 Let's Connect!
 
 📧 Email: [vidurangipeshala123@gmail.com](mailto:vidurangipeshala123@gmail.com)  
 🐙 GitHub: [github.com/peshliya](https://github.com/peshliya)  
-🔗 LinkedIn: [Vidurangi Peshala](https://www.linkedin.com/in/vidurangi-peshala-6718112a3)
+🔗 LinkedIn: [Vidurangi Peshala](https://www.linkedin.com/in/vidurangi-peshala-6718112a3)  
+✍️ Medium: [medium.com/@vidurangipeshala](https://medium.com/@vidurangipeshala)
 
 <p align="center">
   <a href="mailto:vidurangipeshala123@gmail.com">
@@ -72,6 +72,8 @@
   <a href="https://github.com/peshliya">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@vidurangipeshala">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+  </a>
 </p>
-
 
